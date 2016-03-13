@@ -1,0 +1,46 @@
+.site-wrapper-inner {
+    background-position-x: 0;
+    background-position-y: 0;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat-x: repeat;
+    background-repeat-y: repeat;
+    background-attachment: scroll;
+    background-image: url(Screen%20Shot%202016-03-12%20at%2012.32.45%20AM.png)
+}
+.btn.btn-lg.btn-default {
+    border: 0 #000;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-position-x: 0;
+    background-position-y: 0;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat-x: repeat;
+    background-repeat-y: repeat;
+    background-attachment: scroll;
+    background-image: url(ios7%20message.png);
+    height: 64px;
+    width: 64px;
+    display: inline-block;
+    position: static;
+    -webkit-border-radius: 14px;
+    border-radius: 14px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 22px;
+    text-transform: lowercase;
+    letter-spacing: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    padding-top: 14px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: #0bca63
+}
